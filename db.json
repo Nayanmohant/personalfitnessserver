@@ -1,0 +1,60 @@
+{
+  "workouts": [
+    {
+      "exerciseType": "dumbles",
+      "duration": "20",
+      "caloriesBurned": "100",
+      "category": "strength",
+      "date": "2024-12-07",
+      "id": 5
+    },
+    {
+      "exerciseType": "pushup",
+      "duration": "10",
+      "caloriesBurned": "100",
+      "category": "cardio",
+      "date": "2024-12-14",
+      "id": 7
+    },
+    {
+      "exerciseType": "running",
+      "duration": "13",
+      "caloriesBurned": "222",
+      "category": "cardio",
+      "date": "2024-12-14",
+      "id": 8
+    },
+    {
+      "exerciseType": "jumping",
+      "duration": "53",
+      "caloriesBurned": "456",
+      "category": "cardio",
+      "date": "2024-12-14",
+      "id": 9
+    },
+    {
+      "exerciseType": "dumbles",
+      "duration": "30",
+      "caloriesBurned": "100",
+      "category": "strength",
+      "date": "2024-12-14",
+      "id": 12
+    },
+    {
+      "exerciseType": "pushup",
+      "duration": "25",
+      "caloriesBurned": "300",
+      "category": "cardio",
+      "date": "2024-12-13",
+      "id": 13
+    },
+    {
+      "exerciseType": "pushup",
+      "duration": "20",
+      "caloriesBurned": "130",
+      "category": "flexibility",
+      "date": "2024-12-15",
+      "id": 14
+    }
+  ]
+}
