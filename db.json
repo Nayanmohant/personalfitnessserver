@@ -1,4 +1,36 @@
 {
+  "users": [
+    {
+      "name": "Karthika S",
+      "email": "sonakb02@gmail.com",
+      "age": "21",
+      "weight": "40",
+      "height": "150",
+      "fitnessgoals": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "name": "Gadha  P S",
+      "email": "gadha02@gmail.com",
+      "age": "21",
+      "weight": "50",
+      "height": "154",
+      "fitnessgoals": "gain weight",
+      "password": "12321",
+      "id": 2
+    },
+    {
+      "name": "Rema",
+      "email": "rema26@gmail.com",
+      "age": "36",
+      "weight": "64",
+      "height": "158",
+      "fitnessgoals": "gain weight",
+      "password": "3333333",
+      "id": 3
+    }
+  ],
   "workouts": [
     {
       "exerciseType": "dumbles",
